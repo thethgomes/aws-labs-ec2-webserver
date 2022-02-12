@@ -132,6 +132,7 @@ click on Register pending targets:
 ![image](https://user-images.githubusercontent.com/48591555/153728570-f0f97b63-18bd-4db8-ae76-b5ea3ee5da5d.png)
 
 click on Listeners and routing and select created target group then click on **Create load balancer**
+
 ![image](https://user-images.githubusercontent.com/48591555/15372716-0f2ef7bc-034b-4179-9b18-295387b6d6ad.png)
 
 you may reach your Created load balancer:
@@ -148,7 +149,7 @@ Attach LoadBalancer Security Group for thew Load Balancer:
 
 ![image](https://user-images.githubusercontent.com/48591555/153728924-a5244eba-bcfd-48e9-87a3-ebee2452a753.png)
 
-#####Testing Load Balancer:
+#####Testing Load Balancer:#####
 
 Get load Balancer DNS name and paste into web browser:
 
