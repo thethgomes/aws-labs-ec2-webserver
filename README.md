@@ -1,4 +1,4 @@
-# aws-labs-ec2-webserver
+# aws-labs-ec2-webserver-ELB
 ### OBJECTIVE
 Creating an EC2 WebServer instance running with Load Balancer High Availability on AWS Infrastructure.
 
