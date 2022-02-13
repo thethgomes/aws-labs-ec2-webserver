@@ -149,7 +149,7 @@ Attach LoadBalancer Security Group for thew Load Balancer:
 
 ![image](https://user-images.githubusercontent.com/48591555/153728924-a5244eba-bcfd-48e9-87a3-ebee2452a753.png)
 
-#####Testing Load Balancer:#####
+##### Testing Load Balancer:
 
 Get load Balancer DNS name and paste into web browser:
 
@@ -157,7 +157,7 @@ Get load Balancer DNS name and paste into web browser:
 
 ![image](https://user-images.githubusercontent.com/48591555/153728980-1e95e9c8-a21b-44b9-8472-8d7dc94da145.png)
 
-To check load balancer effectivenes you need to shutdown at least one of 2 virtual machines set for the load balancer.
+To check load balancer effectiveness you need to shutdown at least one of 2 virtual machines set for the load balancer.
 
 
 
