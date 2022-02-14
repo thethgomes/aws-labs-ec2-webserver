@@ -1,6 +1,11 @@
 # aws-labs-ec2-webserver-ELB
+
 ### OBJECTIVE
 Creating an EC2 WebServer instance running with Load Balancer High Availability on AWS Infrastructure.
+
+<img align="center" alt="Thiago-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+
+##
 
 #### 1 - Creating EC2 Instances - WebServer
 
@@ -85,7 +90,8 @@ Click on **Add Tag** and add following Tags:
 Click on **"Next: Configure Security Group"** and **"Select an existing security group" selecting _SG-WebServer_ security group then Click on **"Review and Launch**":
 
 ![image](https://user-images.githubusercontent.com/48591555/153727900-22900bd0-de5c-433f-93f9-4e575b3c0c10.png)
-Selecting precious key and click on **"Launch Instances"**:
+Selecting previous key and click on **"Launch Instances"**:
+##
 
 #### 2 - Creating APP Load Balancers
 
